@@ -1,0 +1,23 @@
+
+[
+{
+    "id":1,
+    "Artista":"Axel",
+    "Nombre":"Amo",
+    "url":"./assets/Musica/Latina/Axel-amo.mp3"
+},
+{
+    "id":2,
+    "Artista":"Marta Sanchez",
+    "Nombre":"Desesperada",
+    "url":"./assets/Musica/Latina/Desesperada.mp3"
+},
+
+{
+    "id":3,
+    "Artista":"Fabiana Cantilo",
+    "Nombre":"Nada es para siempre",
+    "url":"./assets/Musica/Latina/Nada-es-para-siempre.mp3"    
+}
+
+]

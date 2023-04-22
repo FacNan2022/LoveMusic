@@ -101,4 +101,13 @@ body{
     color: 	rgba(255, 165, 0, 1);
     text-align: center;
   }
+
+  .footer {
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 63.5px;
+  }
   
